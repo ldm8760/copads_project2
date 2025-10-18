@@ -12,3 +12,4 @@ C:\Users\extra\Fall2025\COPADS\project2\NumGen\obj\Debug\net9.0\refint\NumGen.dl
 C:\Users\extra\Fall2025\COPADS\project2\NumGen\obj\Debug\net9.0\NumGen.pdb
 C:\Users\extra\Fall2025\COPADS\project2\NumGen\obj\Debug\net9.0\NumGen.genruntimeconfig.cache
 C:\Users\extra\Fall2025\COPADS\project2\NumGen\obj\Debug\net9.0\ref\NumGen.dll
+C:\Users\extra\Fall2025\COPADS\project2\NumGen\obj\Debug\net9.0\NumGen.sourcelink.json
