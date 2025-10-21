@@ -1,18 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\extra\\Fall2025\\COPADS\\project2\\NumGen\\NumGen.csproj": {}
+    "C:\\Users\\extra\\Fall2025\\COPADS\\copads_project2\\NumGen\\NumGen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\extra\\Fall2025\\COPADS\\project2\\NumGen\\NumGen.csproj": {
+    "C:\\Users\\extra\\Fall2025\\COPADS\\copads_project2\\NumGen\\NumGen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\extra\\Fall2025\\COPADS\\project2\\NumGen\\NumGen.csproj",
+        "projectUniqueName": "C:\\Users\\extra\\Fall2025\\COPADS\\copads_project2\\NumGen\\NumGen.csproj",
         "projectName": "NumGen",
-        "projectPath": "C:\\Users\\extra\\Fall2025\\COPADS\\project2\\NumGen\\NumGen.csproj",
+        "projectPath": "C:\\Users\\extra\\Fall2025\\COPADS\\copads_project2\\NumGen\\NumGen.csproj",
         "packagesPath": "C:\\Users\\extra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\extra\\Fall2025\\COPADS\\project2\\NumGen\\obj\\",
+        "outputPath": "C:\\Users\\extra\\Fall2025\\COPADS\\copads_project2\\NumGen\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\extra\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
